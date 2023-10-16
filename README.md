@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-You have an Excel file with Arabic quad names and need to perform the following tasks:
+You have an Excel file with Arabic quad names with its mobile number and need to perform the following tasks:
 
 1. **Reading the Excel File with Arabic Text Encoding**: Load the Excel file while preserving the Arabic character encoding. The specific encoding to use may vary depending on the file. Common encodings include 'utf-8', 'utf-16', or 'utf-16-le'.
 
