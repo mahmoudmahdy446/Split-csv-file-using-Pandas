@@ -1,4 +1,4 @@
-# manipulating-csv-using-pandas
+# Splitting excel file and reformat to csv witb Pandas
 
 # Task: Splitting and Formatting Data for Google Contacts
 
